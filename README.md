@@ -11,7 +11,7 @@ Conrado Pupo 19.01490-2
 
 Esse projeto consiste em um sensor ultrassônico que consegue medir a distancia via ondas ultrassônicas a partir do clique de um botão,
 a medição é exibida em uma tela oled.
-Tudo isso se comunica através de um raspberry pi pico.
+Toda a comunicação é feita através de um raspberry pi pico.
 
 ![WhatsApp Image 2022-05-26 at 17 47 49](https://user-images.githubusercontent.com/79618686/170578044-f0267f24-5135-4d7c-98fb-0ea05ad61aa3.jpeg)
 ![WhatsApp Image 2022-05-26 at 17 47 50](https://user-images.githubusercontent.com/79618686/170578063-01303ae7-c976-45e3-8337-4c6f2ee5c949.jpeg)
